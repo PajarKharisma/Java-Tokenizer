@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<corpus>
+	<obat>
+		<nyamuk></nyamuk>
+		<cacing></cacing>
+		<flu></flu>
+		<batuk></batuk>
+		<sakit>
+			<flu></flu>
+			<kepala></kepala>
+			<perut></perut>
+		</sakit>
+	</obat>
+	<sakit>
+		<hati></hati>
+		<gigi></gigi>
+		<flu></flu>
+		<perut></perut>
+		<kepala></kepala>
+	</sakit>
+	<rumah>
+		<sakit>
+			<jiwa></jiwa>
+		</sakit>
+	</rumah>
+</corpus>
